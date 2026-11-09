@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bloom Pour Ratio</string>
+
+    <string name="splash_title_top">BLOOM POUR</string>
+    <string name="splash_title_bottom">RATIO</string>
+    <string name="splash_tagline">RATIO MATH AND POUR TIMING</string>
+    <string name="splash_progress">BREWING UP</string>
+
+    <string name="menu_title">RECIPE RACK</string>
+    <string name="menu_hint">PICK A RECIPE OR SET A NEW RATIO</string>
+
+    <string name="ratio_title">RATIO SETTER</string>
+    <string name="plan_title">POUR PLAN</string>
+    <string name="plan_empty">BUILD A RECIPE FIRST</string>
+    <string name="log_title">TASTING LOG</string>
+    <string name="log_empty">NO BREWS LOGGED YET</string>
+    <string name="settings_title">BREW SETTINGS</string>
+    <string name="result_title">CUP IS READY</string>
+    <string name="result_hint">HOW DID IT TASTE</string>
+
+    <string name="cta_start_brew">START BREW</string>
+    <string name="cta_build_plan">START POUR PLAN</string>
+    <string name="cta_save_recipe">SAVE RECIPE</string>
+    <string name="cta_recipe_saved">RECIPE SAVED</string>
+    <string name="cta_start_timer">START TIMER</string>
+    <string name="cta_edit_ratio">EDIT RATIO</string>
+    <string name="cta_next_pour">NEXT POUR</string>
+    <string name="cta_pause">PAUSE</string>
+    <string name="cta_resume">RESUME</string>
+    <string name="cta_finish_cup">FINISH CUP</string>
+    <string name="cta_brew_again">BREW AGAIN</string>
+    <string name="cta_menu">MENU</string>
+    <string name="cta_log">LOG</string>
+    <string name="cta_clear_log">CLEAR LOG</string>
+    <string name="cta_clear">CLEAR</string>
+    <string name="cta_cancel">CANCEL</string>
+    <string name="cta_discard">DISCARD</string>
+    <string name="cta_keep_brewing">KEEP BREWING</string>
+
+    <string name="mode_by_dose">BY DOSE</string>
+    <string name="mode_by_cup">BY CUP</string>
+    <string name="label_dose">COFFEE DOSE</string>
+    <string name="label_cup">CUP SIZE</string>
+
+    <string name="stat_brews">BREWS</string>
+    <string name="stat_best">BEST</string>
+    <string name="stat_dose">DOSE</string>
+    <string name="stat_water">WATER</string>
+    <string name="stat_time">TIME</string>
+
+    <string name="stage_bloom">BLOOM</string>
+    <string name="stage_pour">POUR %1$d</string>
+    <string name="stage_drawdown">DRAWDOWN</string>
+    <string name="stage_window">%1$s - %2$s</string>
+
+    <string name="verdict_sour">SOUR</string>
+    <string name="verdict_balanced">BALANCED</string>
+    <string name="verdict_bitter">BITTER</string>
+
+    <string name="advice_title">ADJUST FOR TOMORROW</string>
+    <string name="advice_grind_finer">GRIND %1$d STEPS FINER</string>
+    <string name="advice_grind_coarser">GRIND %1$d STEPS COARSER</string>
+    <string name="advice_grind_keep">KEEP THE SAME GRIND</string>
+    <string name="advice_next_ratio">NEXT RATIO 1:%1$s</string>
+    <string name="advice_grind_setting">GRIND SETTING %1$s</string>
+    <string name="advice_reason_finer">More contact and more water pull out the sweetness that is still locked in.</string>
+    <string name="advice_reason_coarser">Coarser grounds and less water stop the brew before the harsh notes arrive.</string>
+    <string name="advice_reason_keep">This cup landed where you want it. Brew it again exactly the same way.</string>
+
+    <string name="settings_units">UNITS</string>
+    <string name="settings_default_ratio">DEFAULT RATIO</string>
+    <string name="settings_bloom">BLOOM MULTIPLIER</string>
+    <string name="settings_alerts">STAGE ALERTS</string>
+    <string name="settings_light_theme">WARM LIGHT THEME</string>
+    <string name="state_on">ON</string>
+    <string name="state_off">OFF</string>
+
+    <string name="unit_grams">G</string>
+    <string name="unit_ounces">OZ</string>
+    <string name="unit_millilitres">ML</string>
+    <string name="unit_grams_full">GRAMS</string>
+    <string name="unit_ounces_full">OUNCES</string>
+
+    <string name="ratio_value">1:%1$s</string>
+    <string name="grams_value">%1$s G</string>
+    <string name="multiplier_value">%1$sx</string>
+    <string name="derived_water">%1$s %2$s WATER</string>
+    <string name="derived_coffee">%1$s %2$s COFFEE</string>
+    <string name="game_target">POUR TO %1$s %2$s</string>
+    <string name="result_subtitle">%1$s G · 1:%2$s · %3$s</string>
+    <string name="log_summary">1:%1$s · %2$s G</string>
+    <string name="bullet">·</string>
+    <string name="stepper_minus">-</string>
+    <string name="stepper_plus">+</string>
+
+    <string name="dialog_abort_title">DISCARD THIS BREW?</string>
+    <string name="dialog_abort_body">The timer stops and nothing is written to the tasting log.</string>
+    <string name="dialog_clear_title">CLEAR ALL BREWS?</string>
+    <string name="dialog_clear_body">Every logged brew is removed from this device for good.</string>
+
+    <string name="cd_logo">Bloom Pour Ratio emblem</string>
+    <string name="cd_menu">Back to menu</string>
+    <string name="cd_pause">Pause the brew</string>
+    <string name="cd_settings">Brew settings</string>
+    <string name="cd_dripper">Pour over dripper</string>
+    <string name="cd_beans">Coffee beans and scoop</string>
+    <string name="cd_kettle">Gooseneck kettle</string>
+    <string name="cd_cup">Brewed cup of coffee</string>
+</resources>
